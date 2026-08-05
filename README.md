@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/chandank013/leetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/chandank013/leetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/chandank013/leetCode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/chandank013/leetCode/tree/master/0412-fizz-buzz) |
 | [2413-smallest-even-multiple](https://github.com/chandank013/leetCode/tree/master/2413-smallest-even-multiple) |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/chandank013/leetCode/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/chandank013/leetCode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/chandank013/leetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
