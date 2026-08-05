@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/chandank013/leetCode/tree/master/0412-fizz-buzz) |
 ## Enumeration
 |  |
 | ------- |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/chandank013/leetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/chandank013/leetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
