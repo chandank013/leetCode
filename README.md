@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chandank013/leetCode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
 | [1470-shuffle-the-array](https://github.com/chandank013/leetCode/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/chandank013/leetCode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/chandank013/leetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chandank013/leetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/chandank013/leetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/chandank013/leetCode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/chandank013/leetCode/tree/master/0728-self-dividing-numbers) |
+| [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
 | [2413-smallest-even-multiple](https://github.com/chandank013/leetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/chandank013/leetCode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/chandank013/leetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/chandank013/leetCode/tree/master/0202-happy-number) |
+| [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/chandank013/leetCode/tree/master/0202-happy-number) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
