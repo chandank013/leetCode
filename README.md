@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/chandank013/leetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/chandank013/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chandank013/leetCode/tree/master/0342-power-of-four) |
+| [0400-nth-digit](https://github.com/chandank013/leetCode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/chandank013/leetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/chandank013/leetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/chandank013/leetCode/tree/master/0509-fibonacci-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/chandank013/leetCode/tree/master/0069-sqrtx) |
+| [0400-nth-digit](https://github.com/chandank013/leetCode/tree/master/0400-nth-digit) |
 ## Newton's Method
 |  |
 | ------- |
