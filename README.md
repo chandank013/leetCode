@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/chandank013/leetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/chandank013/leetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/chandank013/leetCode/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/chandank013/leetCode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/chandank013/leetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/chandank013/leetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/chandank013/leetCode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/chandank013/leetCode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/chandank013/leetCode/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chandank013/leetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
