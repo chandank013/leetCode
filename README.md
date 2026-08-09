@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/chandank013/leetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/chandank013/leetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/chandank013/leetCode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/chandank013/leetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/chandank013/leetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/chandank013/leetCode/tree/master/0263-ugly-number) |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/chandank013/leetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/chandank013/leetCode/tree/master/0342-power-of-four) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/chandank013/leetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
