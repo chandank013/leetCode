@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/chandank013/leetCode/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/chandank013/leetCode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/chandank013/leetCode/tree/master/0836-rectangle-overlap) |
+| [1492-the-kth-factor-of-n](https://github.com/chandank013/leetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/chandank013/leetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/chandank013/leetCode/tree/master/2413-smallest-even-multiple) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/chandank013/leetCode/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/chandank013/leetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/chandank013/leetCode/tree/master/2413-smallest-even-multiple) |
 ## Primality Test
 |  |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/chandank013/leetCode/tree/master/0812-largest-triangle-area) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/chandank013/leetCode/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
