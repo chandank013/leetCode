@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/chandank013/leetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/chandank013/leetCode/tree/master/0066-plus-one) |
+| [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chandank013/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0812-largest-triangle-area](https://github.com/chandank013/leetCode/tree/master/0812-largest-triangle-area) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/chandank013/leetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/chandank013/leetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/chandank013/leetCode/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/chandank013/leetCode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/chandank013/leetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/chandank013/leetCode/tree/master/0202-happy-number) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/chandank013/leetCode/tree/master/0202-happy-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chandank013/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/chandank013/leetCode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/chandank013/leetCode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/chandank013/leetCode/tree/master/0836-rectangle-overlap) |
@@ -178,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0878-nth-magical-number](https://github.com/chandank013/leetCode/tree/master/0878-nth-magical-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
