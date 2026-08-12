@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/chandank013/leetCode/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/chandank013/leetCode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/chandank013/leetCode/tree/master/0836-rectangle-overlap) |
+| [0858-mirror-reflection](https://github.com/chandank013/leetCode/tree/master/0858-mirror-reflection) |
 | [0878-nth-magical-number](https://github.com/chandank013/leetCode/tree/master/0878-nth-magical-number) |
 | [1492-the-kth-factor-of-n](https://github.com/chandank013/leetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/chandank013/leetCode/tree/master/0258-add-digits) |
+| [0858-mirror-reflection](https://github.com/chandank013/leetCode/tree/master/0858-mirror-reflection) |
 | [1492-the-kth-factor-of-n](https://github.com/chandank013/leetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/chandank013/leetCode/tree/master/2413-smallest-even-multiple) |
 ## Primality Test
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/chandank013/leetCode/tree/master/0391-perfect-rectangle) |
 | [0812-largest-triangle-area](https://github.com/chandank013/leetCode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/chandank013/leetCode/tree/master/0836-rectangle-overlap) |
+| [0858-mirror-reflection](https://github.com/chandank013/leetCode/tree/master/0858-mirror-reflection) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/chandank013/leetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/chandank013/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Sorting
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Least Common Multiple
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/chandank013/leetCode/tree/master/0858-mirror-reflection) |
 | [0878-nth-magical-number](https://github.com/chandank013/leetCode/tree/master/0878-nth-magical-number) |
 ## Inclusion-Exclusion Principle
 |  |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
+| [0858-mirror-reflection](https://github.com/chandank013/leetCode/tree/master/0858-mirror-reflection) |
 ## Sweep Line
 |  |
 | ------- |
