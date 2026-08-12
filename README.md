@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/chandank013/leetCode/tree/master/0858-mirror-reflection) |
 | [0878-nth-magical-number](https://github.com/chandank013/leetCode/tree/master/0878-nth-magical-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/chandank013/leetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/chandank013/leetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/chandank013/leetCode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/chandank013/leetCode/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/chandank013/leetCode/tree/master/0858-mirror-reflection) |
+| [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/chandank013/leetCode/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/chandank013/leetCode/tree/master/2413-smallest-even-multiple) |
 ## Primality Test
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/chandank013/leetCode/tree/master/0069-sqrtx) |
 | [0400-nth-digit](https://github.com/chandank013/leetCode/tree/master/0400-nth-digit) |
 | [0878-nth-magical-number](https://github.com/chandank013/leetCode/tree/master/0878-nth-magical-number) |
+| [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
 ## Newton's Method
 |  |
 | ------- |
@@ -188,19 +191,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0858-mirror-reflection](https://github.com/chandank013/leetCode/tree/master/0858-mirror-reflection) |
 | [0878-nth-magical-number](https://github.com/chandank013/leetCode/tree/master/0878-nth-magical-number) |
+| [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
 ## Inclusion-Exclusion Principle
 |  |
 | ------- |
 | [0878-nth-magical-number](https://github.com/chandank013/leetCode/tree/master/0878-nth-magical-number) |
+| [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
 ## Euclidean Algorithm
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
+| [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0858-mirror-reflection](https://github.com/chandank013/leetCode/tree/master/0858-mirror-reflection) |
+| [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
 ## Sweep Line
 |  |
 | ------- |
@@ -209,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/chandank013/leetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Combinatorics
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
