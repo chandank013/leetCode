@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/chandank013/leetCode/tree/master/0391-perfect-rectangle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chandank013/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0812-largest-triangle-area](https://github.com/chandank013/leetCode/tree/master/0812-largest-triangle-area) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/chandank013/leetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chandank013/leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/chandank013/leetCode/tree/master/1470-shuffle-the-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chandank013/leetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/chandank013/leetCode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/chandank013/leetCode/tree/master/0858-mirror-reflection) |
 | [0878-nth-magical-number](https://github.com/chandank013/leetCode/tree/master/0878-nth-magical-number) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/chandank013/leetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/chandank013/leetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/chandank013/leetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/chandank013/leetCode/tree/master/0258-add-digits) |
 | [0858-mirror-reflection](https://github.com/chandank013/leetCode/tree/master/0858-mirror-reflection) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/chandank013/leetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/chandank013/leetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandank013/leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/chandank013/leetCode/tree/master/0202-happy-number) |
 | [0391-perfect-rectangle](https://github.com/chandank013/leetCode/tree/master/0391-perfect-rectangle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chandank013/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/chandank013/leetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/chandank013/leetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/chandank013/leetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
@@ -215,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/chandank013/leetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/chandank013/leetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandank013/leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -223,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0858-mirror-reflection](https://github.com/chandank013/leetCode/tree/master/0858-mirror-reflection) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/chandank013/leetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/chandank013/leetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandank013/leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
