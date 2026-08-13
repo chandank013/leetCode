@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/chandank013/leetCode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chandank013/leetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/chandank013/leetCode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chandank013/leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chandank013/leetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chandank013/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/chandank013/leetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/chandank013/leetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chandank013/leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/chandank013/leetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/chandank013/leetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/chandank013/leetCode/tree/master/2469-convert-the-temperature) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0858-mirror-reflection](https://github.com/chandank013/leetCode/tree/master/0858-mirror-reflection) |
 | [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/chandank013/leetCode/tree/master/1492-the-kth-factor-of-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chandank013/leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/chandank013/leetCode/tree/master/2413-smallest-even-multiple) |
 ## Primality Test
 |  |
@@ -211,12 +214,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
 | [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chandank013/leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0858-mirror-reflection](https://github.com/chandank013/leetCode/tree/master/0858-mirror-reflection) |
 | [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/chandank013/leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sweep Line
 |  |
 | ------- |
