@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/chandank013/leetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/chandank013/leetCode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/chandank013/leetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
 | [0391-perfect-rectangle](https://github.com/chandank013/leetCode/tree/master/0391-perfect-rectangle) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/chandank013/leetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/chandank013/leetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/chandank013/leetCode/tree/master/0342-power-of-four) |
 ## Geometry
