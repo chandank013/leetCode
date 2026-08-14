@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/chandank013/leetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/chandank013/leetCode/tree/master/0227-basic-calculator-ii) |
 | [0412-fizz-buzz](https://github.com/chandank013/leetCode/tree/master/0412-fizz-buzz) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chandank013/leetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/chandank013/leetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/chandank013/leetCode/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chandank013/leetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/chandank013/leetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/chandank013/leetCode/tree/master/0227-basic-calculator-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chandank013/leetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
