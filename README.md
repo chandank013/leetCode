@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chandank013/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/chandank013/leetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/chandank013/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3731-find-missing-elements](https://github.com/chandank013/leetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/chandank013/leetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chandank013/leetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3731-find-missing-elements](https://github.com/chandank013/leetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/chandank013/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chandank013/leetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/chandank013/leetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3731-find-missing-elements](https://github.com/chandank013/leetCode/tree/master/3731-find-missing-elements) |
 ## Polygons
 |  |
 | ------- |
