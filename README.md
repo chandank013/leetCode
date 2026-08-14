@@ -72,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/chandank013/leetCode/tree/master/2652-sum-multiples) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/chandank013/leetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/chandank013/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/chandank013/leetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/chandank013/leetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/chandank013/leetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
