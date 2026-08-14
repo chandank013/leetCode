@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/chandank013/leetCode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/chandank013/leetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/chandank013/leetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/chandank013/leetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chandank013/leetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/chandank013/leetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/chandank013/leetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/chandank013/leetCode/tree/master/0389-find-the-difference) |
 ## Geometry
