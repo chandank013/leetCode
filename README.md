@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/chandank013/leetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/chandank013/leetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/chandank013/leetCode/tree/master/0461-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/chandank013/leetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/chandank013/leetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Geometry
 |  |
