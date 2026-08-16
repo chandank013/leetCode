@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chandank013/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/chandank013/leetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/chandank013/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/chandank013/leetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/chandank013/leetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/chandank013/leetCode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/chandank013/leetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chandank013/leetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/chandank013/leetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/chandank013/leetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/chandank013/leetCode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/chandank013/leetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/chandank013/leetCode/tree/master/1009-complement-of-base-10-integer) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/chandank013/leetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/chandank013/leetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Geometry
 |  |
