@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/chandank013/leetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/chandank013/leetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/chandank013/leetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2429-minimize-xor](https://github.com/chandank013/leetCode/tree/master/2429-minimize-xor) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/chandank013/leetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/chandank013/leetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/chandank013/leetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -317,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/chandank013/leetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/chandank013/leetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+## Greedy
+|  |
+| ------- |
+| [2429-minimize-xor](https://github.com/chandank013/leetCode/tree/master/2429-minimize-xor) |
 <!---LeetCode Topics End-->
