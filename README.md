@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/chandank013/leetCode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/chandank013/leetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/chandank013/leetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/chandank013/leetCode/tree/master/0268-missing-number) |
 | [0391-perfect-rectangle](https://github.com/chandank013/leetCode/tree/master/0391-perfect-rectangle) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/chandank013/leetCode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/chandank013/leetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/chandank013/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chandank013/leetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/chandank013/leetCode/tree/master/0223-rectangle-area) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandank013/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chandank013/leetCode/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/chandank013/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chandank013/leetCode/tree/master/0202-happy-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chandank013/leetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Floyd's Cycle Finding Algorithm
