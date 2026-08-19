@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chandank013/leetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/chandank013/leetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/chandank013/leetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chandank013/leetCode/tree/master/0268-missing-number) |
 | [0391-perfect-rectangle](https://github.com/chandank013/leetCode/tree/master/0391-perfect-rectangle) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/chandank013/leetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/chandank013/leetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/chandank013/leetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/chandank013/leetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chandank013/leetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/chandank013/leetCode/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/chandank013/leetCode/tree/master/0391-perfect-rectangle) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chandank013/leetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/chandank013/leetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chandank013/leetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/chandank013/leetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chandank013/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
