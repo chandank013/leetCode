@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chandank013/leetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chandank013/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/chandank013/leetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/chandank013/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0391-perfect-rectangle](https://github.com/chandank013/leetCode/tree/master/0391-perfect-rectangle) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/chandank013/leetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chandank013/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/chandank013/leetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/chandank013/leetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/chandank013/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/chandank013/leetCode/tree/master/0400-nth-digit) |
 | [0878-nth-magical-number](https://github.com/chandank013/leetCode/tree/master/0878-nth-magical-number) |
 | [1201-ugly-number-iii](https://github.com/chandank013/leetCode/tree/master/1201-ugly-number-iii) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chandank013/leetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chandank013/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/chandank013/leetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/chandank013/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/chandank013/leetCode/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/chandank013/leetCode/tree/master/0391-perfect-rectangle) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/chandank013/leetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/chandank013/leetCode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/chandank013/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chandank013/leetCode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/chandank013/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chandank013/leetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2460-apply-operations-to-an-array](https://github.com/chandank013/leetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Floyd's Cycle Finding Algorithm
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chandank013/leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chandank013/leetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/chandank013/leetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/chandank013/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/chandank013/leetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chandank013/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chandank013/leetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
