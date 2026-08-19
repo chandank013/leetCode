@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chandank013/leetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chandank013/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/chandank013/leetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2460-apply-operations-to-an-array](https://github.com/chandank013/leetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/chandank013/leetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/chandank013/leetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/chandank013/leetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/chandank013/leetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/chandank013/leetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chandank013/leetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2460-apply-operations-to-an-array](https://github.com/chandank013/leetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/chandank013/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chandank013/leetCode/tree/master/0202-happy-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chandank013/leetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2460-apply-operations-to-an-array](https://github.com/chandank013/leetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
