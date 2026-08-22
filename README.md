@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/chandank013/leetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/chandank013/leetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/chandank013/leetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/chandank013/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandank013/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/chandank013/leetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chandank013/leetCode/tree/master/0137-single-number-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/chandank013/leetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/chandank013/leetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/chandank013/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/chandank013/leetCode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chandank013/leetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Binary Search
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/chandank013/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/chandank013/leetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/chandank013/leetCode/tree/master/0202-happy-number) |
