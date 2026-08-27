@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/chandank013/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/chandank013/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/chandank013/leetCode/tree/master/0525-contiguous-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/chandank013/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0724-find-pivot-index](https://github.com/chandank013/leetCode/tree/master/0724-find-pivot-index) |
 | [0812-largest-triangle-area](https://github.com/chandank013/leetCode/tree/master/0812-largest-triangle-area) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/chandank013/leetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/chandank013/leetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/chandank013/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chandank013/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/chandank013/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/chandank013/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chandank013/leetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2460-apply-operations-to-an-array](https://github.com/chandank013/leetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/chandank013/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/chandank013/leetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chandank013/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/chandank013/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/chandank013/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chandank013/leetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/chandank013/leetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/chandank013/leetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/chandank013/leetCode/tree/master/0227-basic-calculator-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/chandank013/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chandank013/leetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/chandank013/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2429-minimize-xor](https://github.com/chandank013/leetCode/tree/master/2429-minimize-xor) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -402,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/chandank013/leetCode/tree/master/0056-merge-intervals) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/chandank013/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
