@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/chandank013/leetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chandank013/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/chandank013/leetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/chandank013/leetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/chandank013/leetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/chandank013/leetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/chandank013/leetCode/tree/master/0054-spiral-matrix) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chandank013/leetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/chandank013/leetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandank013/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/chandank013/leetCode/tree/master/0338-counting-bits) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/chandank013/leetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chandank013/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/chandank013/leetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/chandank013/leetCode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/chandank013/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chandank013/leetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/chandank013/leetCode/tree/master/0287-find-the-duplicate-number) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chandank013/leetCode/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/chandank013/leetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/chandank013/leetCode/tree/master/0227-basic-calculator-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/chandank013/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -415,5 +419,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/chandank013/leetCode/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/chandank013/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
