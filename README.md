@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandank013/leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/chandank013/leetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/chandank013/leetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/chandank013/leetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/chandank013/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/chandank013/leetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2460-apply-operations-to-an-array](https://github.com/chandank013/leetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/chandank013/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/chandank013/leetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2429-minimize-xor](https://github.com/chandank013/leetCode/tree/master/2429-minimize-xor) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
