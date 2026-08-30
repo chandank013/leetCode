@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chandank013/leetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/chandank013/leetCode/tree/master/0020-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/chandank013/leetCode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/chandank013/leetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/chandank013/leetCode/tree/master/0227-basic-calculator-ii) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chandank013/leetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chandank013/leetCode/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/chandank013/leetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/chandank013/leetCode/tree/master/0227-basic-calculator-ii) |
@@ -436,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chandank013/leetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chandank013/leetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
