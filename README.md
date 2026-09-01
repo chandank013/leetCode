@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chandank013/leetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/chandank013/leetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandank013/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/chandank013/leetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/chandank013/leetCode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/chandank013/leetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/chandank013/leetCode/tree/master/0227-basic-calculator-ii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/chandank013/leetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandank013/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/chandank013/leetCode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/chandank013/leetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/chandank013/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chandank013/leetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/chandank013/leetCode/tree/master/0287-find-the-duplicate-number) |
