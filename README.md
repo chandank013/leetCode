@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/chandank013/leetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/chandank013/leetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/chandank013/leetCode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/chandank013/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/chandank013/leetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/chandank013/leetCode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chandank013/leetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/chandank013/leetCode/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/chandank013/leetCode/tree/master/0391-perfect-rectangle) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/chandank013/leetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0424-longest-repeating-character-replacement](https://github.com/chandank013/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chandank013/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/chandank013/leetCode/tree/master/0525-contiguous-array) |
 | [0771-jewels-and-stones](https://github.com/chandank013/leetCode/tree/master/0771-jewels-and-stones) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chandank013/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/chandank013/leetCode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/chandank013/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/chandank013/leetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/chandank013/leetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/chandank013/leetCode/tree/master/2932-maximum-strong-pair-xor-i) |
