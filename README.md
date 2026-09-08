@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/chandank013/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/chandank013/leetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/chandank013/leetCode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/chandank013/leetCode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/chandank013/leetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/chandank013/leetCode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chandank013/leetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/chandank013/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/chandank013/leetCode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/chandank013/leetCode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/chandank013/leetCode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/chandank013/leetCode/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/chandank013/leetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/chandank013/leetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/chandank013/leetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/chandank013/leetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/chandank013/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0763-partition-labels](https://github.com/chandank013/leetCode/tree/master/0763-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/chandank013/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chandank013/leetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1768-merge-strings-alternately](https://github.com/chandank013/leetCode/tree/master/1768-merge-strings-alternately) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/chandank013/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0763-partition-labels](https://github.com/chandank013/leetCode/tree/master/0763-partition-labels) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chandank013/leetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2429-minimize-xor](https://github.com/chandank013/leetCode/tree/master/2429-minimize-xor) |
 ## Boyer–Moore Majority Vote Algorithm
