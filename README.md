@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/chandank013/leetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chandank013/leetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/chandank013/leetCode/tree/master/3110-score-of-a-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chandank013/leetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/chandank013/leetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/chandank013/leetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/chandank013/leetCode/tree/master/0509-fibonacci-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chandank013/leetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chandank013/leetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1768-merge-strings-alternately](https://github.com/chandank013/leetCode/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/chandank013/leetCode/tree/master/2460-apply-operations-to-an-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chandank013/leetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/chandank013/leetCode/tree/master/0763-partition-labels) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chandank013/leetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2429-minimize-xor](https://github.com/chandank013/leetCode/tree/master/2429-minimize-xor) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chandank013/leetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
