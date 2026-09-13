@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/chandank013/leetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/chandank013/leetCode/tree/master/0724-find-pivot-index) |
 | [0812-largest-triangle-area](https://github.com/chandank013/leetCode/tree/master/0812-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/chandank013/leetCode/tree/master/0835-image-overlap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/chandank013/leetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/chandank013/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chandank013/leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/chandank013/leetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/chandank013/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chandank013/leetCode/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/chandank013/leetCode/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/chandank013/leetCode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chandank013/leetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Binary Search
