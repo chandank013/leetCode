@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/chandank013/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chandank013/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0391-perfect-rectangle](https://github.com/chandank013/leetCode/tree/master/0391-perfect-rectangle) |
+| [0410-split-array-largest-sum](https://github.com/chandank013/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/chandank013/leetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chandank013/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/chandank013/leetCode/tree/master/0485-max-consecutive-ones) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/chandank013/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chandank013/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/chandank013/leetCode/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/chandank013/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/chandank013/leetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/chandank013/leetCode/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/chandank013/leetCode/tree/master/0878-nth-magical-number) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandank013/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/chandank013/leetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/chandank013/leetCode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/chandank013/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/chandank013/leetCode/tree/master/0509-fibonacci-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chandank013/leetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chandank013/leetCode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/chandank013/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/chandank013/leetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/chandank013/leetCode/tree/master/0724-find-pivot-index) |
 | [1208-get-equal-substrings-within-budget](https://github.com/chandank013/leetCode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/chandank013/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/chandank013/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/chandank013/leetCode/tree/master/0763-partition-labels) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chandank013/leetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
