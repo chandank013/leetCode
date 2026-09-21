@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/chandank013/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/chandank013/leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/chandank013/leetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/chandank013/leetCode/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/chandank013/leetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/chandank013/leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/chandank013/leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/chandank013/leetCode/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/chandank013/leetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/chandank013/leetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1122-relative-sort-array](https://github.com/chandank013/leetCode/tree/master/1122-relative-sort-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/chandank013/leetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/chandank013/leetCode/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/chandank013/leetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/chandank013/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/chandank013/leetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/chandank013/leetCode/tree/master/1122-relative-sort-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chandank013/leetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chandank013/leetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/chandank013/leetCode/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/chandank013/leetCode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/chandank013/leetCode/tree/master/0455-assign-cookies) |
+| [1122-relative-sort-array](https://github.com/chandank013/leetCode/tree/master/1122-relative-sort-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -589,8 +593,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/chandank013/leetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/chandank013/leetCode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/chandank013/leetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/chandank013/leetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
