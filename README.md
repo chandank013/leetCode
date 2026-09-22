@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chandank013/leetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/chandank013/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chandank013/leetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/chandank013/leetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chandank013/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/chandank013/leetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chandank013/leetCode/tree/master/0137-single-number-ii) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/chandank013/leetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chandank013/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/chandank013/leetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/chandank013/leetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/chandank013/leetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/chandank013/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/chandank013/leetCode/tree/master/0189-rotate-array) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/chandank013/leetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/chandank013/leetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/chandank013/leetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/chandank013/leetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/chandank013/leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chandank013/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chandank013/leetCode/tree/master/0242-valid-anagram) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/chandank013/leetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/chandank013/leetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/chandank013/leetCode/tree/master/0455-assign-cookies) |
 | [1122-relative-sort-array](https://github.com/chandank013/leetCode/tree/master/1122-relative-sort-array) |
 ## Monotonic Stack
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/chandank013/leetCode/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/chandank013/leetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/chandank013/leetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
