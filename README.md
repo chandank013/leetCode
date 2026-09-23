@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/chandank013/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/chandank013/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/chandank013/leetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/chandank013/leetCode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/chandank013/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chandank013/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0391-perfect-rectangle](https://github.com/chandank013/leetCode/tree/master/0391-perfect-rectangle) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chandank013/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chandank013/leetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chandank013/leetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/chandank013/leetCode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/chandank013/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/chandank013/leetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chandank013/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/chandank013/leetCode/tree/master/0274-h-index) |
 | [1051-height-checker](https://github.com/chandank013/leetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/chandank013/leetCode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
