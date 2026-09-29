@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/chandank013/leetCode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/chandank013/leetCode/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/chandank013/leetCode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/chandank013/leetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/chandank013/leetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/chandank013/leetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/chandank013/leetCode/tree/master/0204-count-primes) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chandank013/leetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/chandank013/leetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/chandank013/leetCode/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/chandank013/leetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/chandank013/leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chandank013/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chandank013/leetCode/tree/master/0242-valid-anagram) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/chandank013/leetCode/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/chandank013/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/chandank013/leetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Combinatorics
@@ -623,4 +626,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/chandank013/leetCode/tree/master/0324-wiggle-sort-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/chandank013/leetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/chandank013/leetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
