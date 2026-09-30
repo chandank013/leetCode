@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/chandank013/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/chandank013/leetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/chandank013/leetCode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/chandank013/leetCode/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/chandank013/leetCode/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/chandank013/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/chandank013/leetCode/tree/master/0704-binary-search) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/chandank013/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/chandank013/leetCode/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/chandank013/leetCode/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/chandank013/leetCode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/chandank013/leetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/chandank013/leetCode/tree/master/0875-koko-eating-bananas) |
 | [0878-nth-magical-number](https://github.com/chandank013/leetCode/tree/master/0878-nth-magical-number) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/chandank013/leetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/chandank013/leetCode/tree/master/0191-number-of-1-bits) |
 | [0324-wiggle-sort-ii](https://github.com/chandank013/leetCode/tree/master/0324-wiggle-sort-ii) |
+| [0493-reverse-pairs](https://github.com/chandank013/leetCode/tree/master/0493-reverse-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -647,4 +650,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/chandank013/leetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/chandank013/leetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/chandank013/leetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/chandank013/leetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/chandank013/leetCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/chandank013/leetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
