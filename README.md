@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chandank013/leetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/chandank013/leetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/chandank013/leetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/chandank013/leetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/chandank013/leetCode/tree/master/0231-power-of-two) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chandank013/leetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/chandank013/leetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/chandank013/leetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chandank013/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/chandank013/leetCode/tree/master/0234-palindrome-linked-list) |
