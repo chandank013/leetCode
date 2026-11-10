@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/chandank013/leetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/chandank013/leetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chandank013/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0460-lfu-cache](https://github.com/chandank013/leetCode/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/chandank013/leetCode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/chandank013/leetCode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/chandank013/leetCode/tree/master/0763-partition-labels) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/chandank013/leetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/chandank013/leetCode/tree/master/0155-min-stack) |
+| [0460-lfu-cache](https://github.com/chandank013/leetCode/tree/master/0460-lfu-cache) |
 ## Linked List
 |  |
 | ------- |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/chandank013/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/chandank013/leetCode/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/chandank013/leetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/chandank013/leetCode/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/chandank013/leetCode/tree/master/0725-split-linked-list-in-parts) |
 ## Depth-First Search
 |  |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/chandank013/leetCode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/chandank013/leetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/chandank013/leetCode/tree/master/0460-lfu-cache) |
 ## Tournament Sort
 |  |
 | ------- |
