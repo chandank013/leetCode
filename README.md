@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/chandank013/leetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/chandank013/leetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/chandank013/leetCode/tree/master/1122-relative-sort-array) |
+| [1172-dinner-plate-stacks](https://github.com/chandank013/leetCode/tree/master/1172-dinner-plate-stacks) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/chandank013/leetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chandank013/leetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/chandank013/leetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chandank013/leetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chandank013/leetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1172-dinner-plate-stacks](https://github.com/chandank013/leetCode/tree/master/1172-dinner-plate-stacks) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chandank013/leetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chandank013/leetCode/tree/master/0023-merge-k-sorted-lists) |
+| [1172-dinner-plate-stacks](https://github.com/chandank013/leetCode/tree/master/1172-dinner-plate-stacks) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/chandank013/leetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Binary Indexed Tree
 |  |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/chandank013/leetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/chandank013/leetCode/tree/master/0155-min-stack) |
 | [0460-lfu-cache](https://github.com/chandank013/leetCode/tree/master/0460-lfu-cache) |
+| [1172-dinner-plate-stacks](https://github.com/chandank013/leetCode/tree/master/1172-dinner-plate-stacks) |
 ## Linked List
 |  |
 | ------- |
