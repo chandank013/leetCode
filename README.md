@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/chandank013/leetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/chandank013/leetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chandank013/leetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chandank013/leetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/chandank013/leetCode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chandank013/leetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/chandank013/leetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1492-the-kth-factor-of-n](https://github.com/chandank013/leetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/chandank013/leetCode/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chandank013/leetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chandank013/leetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/chandank013/leetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/chandank013/leetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/chandank013/leetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/chandank013/leetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/chandank013/leetCode/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chandank013/leetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chandank013/leetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/chandank013/leetCode/tree/master/0724-find-pivot-index) |
 | [1208-get-equal-substrings-within-budget](https://github.com/chandank013/leetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/chandank013/leetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/chandank013/leetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chandank013/leetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/chandank013/leetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Trie
